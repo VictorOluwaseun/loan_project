@@ -6,7 +6,3 @@ const lname = document.getElementById("lname"),
     occupation = document.getElementById("occupation"), 
     amount = document.getElementById("amount"),
     request = document.querySelector('input[type="submit"]');
-
-
-
-
